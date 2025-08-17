@@ -8,7 +8,7 @@
 - 🗓 **Duration:** 6 Weeks  
 - 📍 **Start Date:** August 4, 2025  
 - 🎓 **Trainers:** Esha Tariq , Abdul Rafay
-- 🧑‍💻 **Moderators:** Masab Afzal, Aroob Mushtaq, Waqar Ahmed  
+- 🧑‍💻 **Moderators:** Masab Afzal, Aroob Mushtaq, Waqar Ahmed ,Zeeshan Tariq
 
 > 📼 **All session recordings will be regularly uploaded and maintained here in this repo.**# 📘 Mastering Data Structures & Algorithm Patterns  
 ### 🚀 6-Week DSA + Pattern-Based Prep  
